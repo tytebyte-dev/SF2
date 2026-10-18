@@ -1,4 +1,4 @@
-package com.tytebyte.sf2.ui
+package io.github.tytebyte_dev.sf2.ui
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background

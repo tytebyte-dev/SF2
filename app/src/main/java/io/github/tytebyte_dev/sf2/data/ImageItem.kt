@@ -1,4 +1,4 @@
-package com.tytebyte.sf2.data
+package io.github.tytebyte_dev.sf2.data
 
 import android.net.Uri
 

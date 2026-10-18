@@ -1,4 +1,4 @@
-package com.tytebyte.sf2.ui
+package io.github.tytebyte_dev.sf2.ui
 
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Arrangement
@@ -32,7 +32,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.tytebyte.sf2.engine.Sensitivity
+import io.github.tytebyte_dev.sf2.engine.Sensitivity
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

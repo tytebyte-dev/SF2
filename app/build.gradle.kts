@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.tytebyte.sf2"
+    namespace = "io.github.tytebyte_dev.sf2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.tytebyte.sf2"
+        applicationId = "io.github.tytebyte_dev.sf2"
         minSdk = 30 // нужен MediaStore.createTrashRequest (системная корзина)
         targetSdk = 34
         versionCode = 1

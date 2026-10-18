@@ -1,4 +1,4 @@
-package com.tytebyte.sf2.engine
+package io.github.tytebyte_dev.sf2.engine
 
 /**
  * Пороги проверки. Пара фото считается повтором, только если проходит ВСЕ проверки сразу:

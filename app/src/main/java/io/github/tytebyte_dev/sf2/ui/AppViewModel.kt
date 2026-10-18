@@ -1,17 +1,17 @@
-package com.tytebyte.sf2.ui
+package io.github.tytebyte_dev.sf2.ui
 
 import android.app.Application
 import android.content.Context
 import androidx.activity.result.IntentSenderRequest
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
-import com.tytebyte.sf2.data.ImageItem
-import com.tytebyte.sf2.data.MediaRepository
-import com.tytebyte.sf2.data.Scanner
-import com.tytebyte.sf2.engine.Candidate
-import com.tytebyte.sf2.engine.DuplicateFinder
-import com.tytebyte.sf2.engine.MatchKind
-import com.tytebyte.sf2.engine.Sensitivity
+import io.github.tytebyte_dev.sf2.data.ImageItem
+import io.github.tytebyte_dev.sf2.data.MediaRepository
+import io.github.tytebyte_dev.sf2.data.Scanner
+import io.github.tytebyte_dev.sf2.engine.Candidate
+import io.github.tytebyte_dev.sf2.engine.DuplicateFinder
+import io.github.tytebyte_dev.sf2.engine.MatchKind
+import io.github.tytebyte_dev.sf2.engine.Sensitivity
 import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job

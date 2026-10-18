@@ -1,4 +1,4 @@
-package com.tytebyte.sf2.engine
+package io.github.tytebyte_dev.sf2.engine
 
 import kotlin.math.PI
 import kotlin.math.cos

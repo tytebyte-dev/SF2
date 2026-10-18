@@ -1,4 +1,4 @@
-package com.tytebyte.sf2.ui
+package io.github.tytebyte_dev.sf2.ui
 
 import android.net.Uri
 import androidx.compose.runtime.Composable

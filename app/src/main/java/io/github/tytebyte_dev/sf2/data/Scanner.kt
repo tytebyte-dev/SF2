@@ -1,11 +1,11 @@
-package com.tytebyte.sf2.data
+package io.github.tytebyte_dev.sf2.data
 
 import android.content.ContentResolver
 import android.graphics.Bitmap
 import android.graphics.ImageDecoder
 import android.net.Uri
-import com.tytebyte.sf2.engine.Candidate
-import com.tytebyte.sf2.engine.HashEngine
+import io.github.tytebyte_dev.sf2.engine.Candidate
+import io.github.tytebyte_dev.sf2.engine.HashEngine
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.awaitAll
